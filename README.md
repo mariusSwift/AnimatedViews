@@ -1,4 +1,4 @@
-A signal composed of 2 sin waves offseted by pi and whose amplitudes are shaped by a parabola curve.
+A signal composed of 2 sin waves offseted by pi and whose amplitudes are shaped by a parabolic curve.
 
 Project run in Xcode Simulator
 
