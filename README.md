@@ -1,7 +1,5 @@
-A signal composed of 2 sine waves offseted by 180 degrees. 
+A signal comprising of 2 sine waves offseted by 180 degrees. 
 Their amplitudes are shaped by a parabolic curve (from no attenuation in the middle up to total attenuation at the leading and trailing edge).
-
-Credit to Paul Hudson whose work served as a starting basis for my implementation.
 
 Project run in Xcode Simulator:
 
