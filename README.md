@@ -1,5 +1,5 @@
 A signal comprising of 2 sine waves offseted by 180 degrees. 
-Their amplitudes are shaped by a parabolic curve (from no attenuation in the middle up to total attenuation at the leading and trailing edge).
+Their amplitudes are shaped by an inverted parabolic curve (from no attenuation in the middle up to total attenuation at the leading and trailing edge).
 
 Project run in Xcode Simulator:
 
