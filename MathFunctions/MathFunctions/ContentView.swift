@@ -45,7 +45,7 @@ struct Signal: Shape {
             // distance of x from middle screen
             let distanceX = x - screenMiddleWidth
 
-            // normalize calculated distance (value betweeen -1 and 1)
+            // normalize calculated distance (value between -1 and 1)
             let distanceNormX = distanceX / screenMiddleWidth
             
             // determine the inverted parabolic curve
