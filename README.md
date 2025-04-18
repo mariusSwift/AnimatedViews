@@ -3,4 +3,4 @@ Their amplitudes are shaped by an inverted parabolic curve (from no attenuation 
 
 Project run in Xcode Simulator:
 
-![AnimatedWaves_demo](https://github.com/user-attachments/assets/58b47d89-05b4-462c-a107-fcc43a60bf91)
+![AnimatedSignal_demo](https://github.com/user-attachments/assets/34050092-8423-419b-b4bf-d1f453810c89)
